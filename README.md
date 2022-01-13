@@ -9,7 +9,10 @@ JSON data -fastest growing trend
   Minimize the complexity of interoperability of different applications,
   Maximum data processing perfromance,
   Technology Futuristic,
-  Minimize the total cost of ownership.![new](https://user-images.githubusercontent.com/83212984/149261081-1622cf6e-f443-4328-b0bb-b0c102a36e81.png)
+  Minimize the total cost of ownership.
+  
+  
+  ![new](https://user-images.githubusercontent.com/83212984/149261081-1622cf6e-f443-4328-b0bb-b0c102a36e81.png)
 
  
  # *The token should be generated for connection JsonPowerDB (JPDB)*
